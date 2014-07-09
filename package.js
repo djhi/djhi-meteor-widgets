@@ -3,21 +3,11 @@ Package.describe({
 });
 
 Package.on_use(function(api, where) {
-  api.use([
-    'moment-with-langs',
-    'numeral',
-    'bower',
-    'ui'
-  ], ['client', 'server']);
-  
-  api.imply([
-    'moment-with-langs',
-    'numeral',
-    'bower'
-  ], ['client', 'server']);
+  api.use(['templating', 'handlebars', 'moment-with-langs', 'numeral', 'bower', 'ui'], 'client');
+  api.imply(['templating', 'handlebars', 'moment-with-langs', 'numeral', 'bower', 'ui'], 'client');
 
-  api.use(['clockpicker'], ['client']);
-  api.imply(['clockpicker'], ['client']);
+  api.use(['clockpicker', 'meteor-select2'], ['client']);
+  api.imply(['clockpicker', 'meteor-select2'], ['client']);
 
   api.add_files([
     'lib/checkboxButton.css',
@@ -70,7 +60,4 @@ Package.on_use(function(api, where) {
 });
 
 Package.on_test(function(api) {
-  api.use(['moment-with-langs', 'numeral', 'meteor-formatting', 'tinytest', 'test-helpers']);
-
-  api.add_files('meteor-formatting_tests.js', ['client', 'server']);
 });

@@ -520,31 +520,15 @@
 	"buffers":
 	[
 		{
-			"file": "package.js",
-			"settings":
-			{
-				"buffer_size": 1235,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "lib/date.js",
-			"settings":
-			{
-				"buffer_size": 285,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "lib/time.js",
-			"settings":
-			{
-				"buffer_size": 309,
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "smart.json",
+			"settings":
+			{
+				"buffer_size": 773,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/home/gildas/.meteorite/packages/djhi-meteor-widgets/djhi/djhi-meteor-widgets/0a1f6d295aeb56c07d3856330d330204a1e75a53/smart.json",
 			"settings":
 			{
 				"buffer_size": 773,
@@ -758,6 +742,9 @@
 	},
 	"file_history":
 	[
+		"/home/gildas/Projects/meteor/djhi-meteor-widgets/lib/time.js",
+		"/home/gildas/Projects/meteor/djhi-meteor-widgets/lib/date.js",
+		"/home/gildas/Projects/meteor/djhi-meteor-widgets/package.js",
 		"/home/gildas/Projects/meteor/djhi-meteor-widgets/lib/mobile.js",
 		"/home/gildas/Projects/meteor/djhi-meteor-widgets/lib/tags.js",
 		"/home/gildas/Projects/meteor/djhi-meteor-widgets/lib/mobile.html",
@@ -882,10 +869,7 @@
 		"/home/gildas/Projects/egaragiste/egaragiste-admin/smart.json",
 		"/home/gildas/Projects/egaragiste/egaragiste/packages/djhi-meteor-authentication/config.js",
 		"/home/gildas/Projects/egaragiste/egaragiste/packages/egaragiste-appbase/package.js",
-		"/home/gildas/Projects/egaragiste/egaragiste-authentication/server.js",
-		"/home/gildas/Projects/egaragiste/egaragiste-authentication/config.js",
-		"/home/gildas/Projects/egaragiste/egaragiste/packages/accounts-templates-core/lib/accounts-templates-core.js",
-		"/home/gildas/Projects/egaragiste/egaragiste-common/garages/views/new.html"
+		"/home/gildas/Projects/egaragiste/egaragiste-authentication/server.js"
 	],
 	"find":
 	{
@@ -1031,6 +1015,7 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"'lib",
 			"autoform",
 			"tags",
 			"radiosButtons",
@@ -1157,8 +1142,7 @@
 			"glyphicon",
 			"€",
 			"index",
-			"id",
-			"='"
+			"id"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1304,95 +1288,11 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "package.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1235,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								565,
-								565
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "lib/date.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 285,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "lib/time.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 309,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
 					"file": "smart.json",
 					"semi_transient": false,
 					"settings":
@@ -1404,8 +1304,8 @@
 						"selection":
 						[
 							[
-								773,
-								773
+								548,
+								548
 							]
 						],
 						"settings":
@@ -1414,11 +1314,41 @@
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
-						"translation.x": -0.0,
+						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/gildas/.meteorite/packages/djhi-meteor-widgets/djhi/djhi-meteor-widgets/0a1f6d295aeb56c07d3856330d330204a1e75a53/smart.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 773,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								543,
+								543
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
