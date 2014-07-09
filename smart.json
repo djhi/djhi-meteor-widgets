@@ -11,7 +11,7 @@
     },
     "bootstrap-3": {},
     "clockpicker": {},
-    "meteor-select2": {
+    "select2": {
       "git": "https://github.com/djhi/meteor-select2.git"
     },
     "bower": {

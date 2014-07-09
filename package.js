@@ -6,8 +6,8 @@ Package.on_use(function(api, where) {
   api.use(['templating', 'handlebars', 'moment-with-langs', 'numeral', 'bower', 'ui'], 'client');
   api.imply(['templating', 'handlebars', 'moment-with-langs', 'numeral', 'bower', 'ui'], 'client');
 
-  api.use(['clockpicker', 'meteor-select2'], ['client']);
-  api.imply(['clockpicker', 'meteor-select2'], ['client']);
+  api.use(['clockpicker', 'select2'], ['client']);
+  api.imply(['clockpicker', 'select2'], ['client']);
 
   api.add_files([
     'lib/checkboxButton.css',
