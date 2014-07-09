@@ -1,0 +1,30 @@
+{
+  "name": "djhi-autoform-widgets",
+  "description": "Widgets for autoform and bootstrap 3. Not meant to be used by anyone but me :)",
+  "homepage": "",
+  "author": "Gildas Garcia <gildas.garcia@gmail.com>",
+  "version": "0.0.1",
+  "git": "https://github.com/djhi/djhi-autoform-widgets.git",
+  "packages": {
+    "autoform": {
+      "git": "https://github.com/djhi/meteor-autoform.git"
+    },
+    "bootstrap-3": {},
+    "clockpicker": {},
+    "bower": {
+      "git": "https://github.com/mquandalle/meteor-bower.git",
+      "branch": "master"
+    },
+  },
+  "bower": {
+    "moment-datepicker": "1.1.3",
+    "select2": {
+      "version": "3.5.0",
+      "additionalFiles": [
+        "select2.css",
+        "select2-bootstrap.css",
+        "select2_locale_fr.js"
+      ]
+    }
+  }
+}

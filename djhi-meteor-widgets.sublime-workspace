@@ -1,0 +1,1527 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"demo",
+				"demeteorized"
+			],
+			[
+				"ve",
+				"vehicleToUpdate (?)"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"des",
+				"description (?)"
+			],
+			[
+				"mason",
+				"masonry-item"
+			],
+			[
+				"cus",
+				"customerHidden"
+			],
+			[
+				"strin",
+				"string"
+			],
+			[
+				"pars",
+				"parseFloat (fn)"
+			],
+			[
+				"numb",
+				"numberForFormatting (?)"
+			],
+			[
+				"categ",
+				"categoryCode (?)"
+			],
+			[
+				"cate",
+				"category (obj)"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"arti",
+				"articleCode (?)"
+			],
+			[
+				"total",
+				"totalPriceET (num)"
+			],
+			[
+				"art",
+				"article (?)"
+			],
+			[
+				"article",
+				"articleQuantity (?)"
+			],
+			[
+				"articl",
+				"articlePriceET (?)"
+			],
+			[
+				"price",
+				"priceET"
+			],
+			[
+				"reposi",
+				"repositoryOwner"
+			],
+			[
+				"curre",
+				"currentTarget"
+			],
+			[
+				"tab",
+				"tabindex	Attr"
+			],
+			[
+				"dou",
+				"document (?)"
+			],
+			[
+				"vhi",
+				"vehicleData	(?)"
+			],
+			[
+				"current",
+				"currentTarget	(?)"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"vehic",
+				"vehicleData	(?)"
+			],
+			[
+				"re",
+				"result	(?)"
+			],
+			[
+				"vehi",
+				"vehicle	{}"
+			],
+			[
+				"vehice",
+				"vehicleId"
+			],
+			[
+				"Custom",
+				"CustomerReferenceSchema	(?)"
+			],
+			[
+				"customer",
+				"customerId"
+			],
+			[
+				"create",
+				"createVehicleReference(vehicle)"
+			],
+			[
+				"cust",
+				"customer	(?)"
+			],
+			[
+				"vehicl",
+				"vehicleId"
+			],
+			[
+				"Vehi",
+				"Vehicles	{}"
+			],
+			[
+				"selec",
+				"select2Focus()"
+			],
+			[
+				"aff",
+				"numberAffected"
+			],
+			[
+				"code",
+				"codeVAT	(?)"
+			],
+			[
+				"subc",
+				"subcategory	(?)"
+			],
+			[
+				"subca",
+				"subcategories	(?)"
+			],
+			[
+				"sub",
+				"subscribe"
+			],
+			[
+				"sbca",
+				"subcategory"
+			],
+			[
+				"a",
+				"afFieldInputAtts	(?)"
+			],
+			[
+				"ar",
+				"article	{}"
+			],
+			[
+				"las",
+				"lastVehicleSubscription"
+			],
+			[
+				"map",
+				"mapVehicle(vehicle)"
+			],
+			[
+				"uni",
+				"uniqResults	(?)"
+			],
+			[
+				"sales",
+				"salesDocuments"
+			],
+			[
+				"find",
+				"findCustomers(keyword)"
+			],
+			[
+				"fn",
+				"findSalesDocuments(keyword)"
+			],
+			[
+				"cu",
+				"customer	(?)"
+			],
+			[
+				"err",
+				"Error"
+			],
+			[
+				"ad",
+				"addressLines	(str)"
+			],
+			[
+				"stat",
+				"statistics	(?)"
+			],
+			[
+				"to",
+				"turnover	(?)"
+			],
+			[
+				"dat",
+				"dateStart"
+			],
+			[
+				"first",
+				"firstDayOfNextMonth	(?)"
+			],
+			[
+				"purch",
+				"purchasingPrice"
+			],
+			[
+				"s",
+				"stock	(?)"
+			],
+			[
+				"sb",
+				"subcategory	{}"
+			],
+			[
+				"Subca",
+				"subcategories"
+			],
+			[
+				"subcateogry",
+				"subcategory	(?)"
+			],
+			[
+				"sa",
+				"salesDocument"
+			],
+			[
+				"se",
+				"select2"
+			],
+			[
+				"subs",
+				"substring(from, to?)"
+			],
+			[
+				"parse",
+				"parseInt(string, radix?)"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"custom",
+				"customersId"
+			],
+			[
+				"artic",
+				"articleId"
+			],
+			[
+				"text",
+				"text-right"
+			],
+			[
+				"add",
+				"address"
+			],
+			[
+				"new",
+				"newCustomer	(?)"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"c",
+				"customerData	(?)"
+			],
+			[
+				"customre",
+				"customerId"
+			],
+			[
+				"cusom",
+				"customerData	(?)"
+			],
+			[
+				"collec",
+				"collections"
+			],
+			[
+				"user",
+				"userId()"
+			],
+			[
+				"egaragiste",
+				"egaragiste-common"
+			],
+			[
+				"Garge",
+				"GaragesSchema	(?)"
+			],
+			[
+				"file",
+				"filePath	(?)"
+			],
+			[
+				"EgFil",
+				"EgFile(doc, size, source, type}, options)"
+			],
+			[
+				"uplo",
+				"uploadOptions	(?)"
+			],
+			[
+				"uploa",
+				"uploader	{}"
+			],
+			[
+				"upload",
+				"uploadOptions	(?)"
+			],
+			[
+				"loadin",
+				"loadingText	(str)"
+			],
+			[
+				"upo",
+				"uploadingText"
+			],
+			[
+				"rea",
+				"readProgress"
+			],
+			[
+				"call",
+				"callback	{}"
+			],
+			[
+				"rr",
+				"readProgress"
+			],
+			[
+				"Eg",
+				"EgFile(options, end, name, size, start, type, ...})"
+			],
+			[
+				"paramt",
+				"parameter"
+			],
+			[
+				"bytes",
+				"bytesUploaded	(?)"
+			],
+			[
+				"byt",
+				"bytesUploaded"
+			],
+			[
+				"eg",
+				"EgFile"
+			],
+			[
+				"read",
+				"reader	(?)"
+			],
+			[
+				"prot",
+				"prototype	{}"
+			],
+			[
+				"pro",
+				"prototype	(?)"
+			],
+			[
+				"Sc",
+				"Schema_Order	(?)"
+			],
+			[
+				"invoice",
+				"Invoices"
+			],
+			[
+				"auto",
+				"autoValue"
+			],
+			[
+				"th",
+				"thanks"
+			],
+			[
+				"Feedba",
+				"FeedbacksHelper	{}"
+			],
+			[
+				"Fee",
+				"FeedbacksHelper	{}"
+			],
+			[
+				"suppl",
+				"supplierId	(?)"
+			],
+			[
+				"suppli",
+				"supplier	(?)"
+			],
+			[
+				"su",
+				"supplier	(?)"
+			],
+			[
+				"supplier",
+				"supplierId	(?)"
+			],
+			[
+				"subcatego",
+				"subcategoryId"
+			],
+			[
+				"ca",
+				"category2Id	(?)"
+			],
+			[
+				"us",
+				"users	{}"
+			],
+			[
+				"is",
+				"isInsert"
+			],
+			[
+				"garag",
+				"garageHasBeenSet"
+			],
+			[
+				"btn-group",
+				"btn-group-xs	BootstrapClass"
+			],
+			[
+				"gara",
+				"garageCount"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"answer",
+				"answeredAt"
+			],
+			[
+				"contac",
+				"contact"
+			],
+			[
+				"contact",
+				"contactId"
+			],
+			[
+				"tas",
+				"taskId"
+			],
+			[
+				"task",
+				"taskId"
+			],
+			[
+				"Feedbacks",
+				"FeedbacksHelper  (variable)"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"default",
+				"defaultValue"
+			],
+			[
+				"list",
+				"list-group-item	BootstrapClass"
+			],
+			[
+				"list-gr",
+				"list-group	BootstrapClass"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.js",
+			"settings":
+			{
+				"buffer_size": 1217,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lib/date.js",
+			"settings":
+			{
+				"buffer_size": 285,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lib/time.js",
+			"settings":
+			{
+				"buffer_size": 309,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "{\n  \"name\": \"djhi-autoform-widgets\",\n  \"description\": \"Widgets for autoform and bootstrap 3. Not meant to be used by anyone but me :)\",\n  \"homepage\": \"\",\n  \"author\": \"Gildas Garcia <gildas.garcia@gmail.com>\",\n  \"version\": \"0.0.1\",\n  \"git\": \"https://github.com/djhi/djhi-autoform-widgets.git\",\n  \"packages\": {\n    \"autoform\": {\n      \"git\": \"https://github.com/djhi/meteor-autoform.git\"\n    },\n    \"bootstrap-3\": {},\n    \"clockpicker\": {},\n  }\n}",
+			"file": "smart.json",
+			"file_size": 434,
+			"file_write_time": 130493669345499397,
+			"settings":
+			{
+				"buffer_size": 444,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"inst	",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: pac",
+				"Snippet: Meteor-Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"previ",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"prev",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"grunt",
+				"Grunt: Kill Running Tasks"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"api",
+				"API-Completion-Package: Settings – User"
+			],
+			[
+				"instak",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"grunt	",
+				"Grunt: Kill Running Tasks"
+			],
+			[
+				"pre",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"vie",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"view",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"Package Control: inst	",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: disco",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Package Control: n",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"mar",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"mark",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"preview",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"previe",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"git pull",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git pu",
+				"Git: Pull"
+			],
+			[
+				"gitflow",
+				"Git-flow: Feature Finish"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Quick Add"
+			],
+			[
+				"git add	",
+				"Git: Quick Add"
+			],
+			[
+				"gitflo",
+				"Git-flow: Feature Start"
+			],
+			[
+				"gitflow 	",
+				"Git-flow: Feature Start"
+			],
+			[
+				"Git:st",
+				"Git: Status"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Markdown Preview: Github Flavored Markdown: Export HTML in Sublime Text"
+			]
+		],
+		"width": 710.0
+	},
+	"console":
+	{
+		"height": 276.0,
+		"history":
+		[
+			"ls",
+			"grunt",
+			"import os; os.getenv('PATH')",
+			"Git: Status",
+			"Git:Status",
+			"Git:STatus",
+			"cd ..",
+			"ls",
+			"sails lift",
+			"import urllib2,os;",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler( ))); open( os.path.join( ipp, pf), 'wb' ).write( urllib2.urlopen( 'http://sublime.wbond.net/' +pf.replace( ' ','%20' )).read()); print( 'Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/gildas/Projects/meteor/djhi-meteor-widgets/lib/mobile.js",
+		"/home/gildas/Projects/meteor/djhi-meteor-widgets/lib/tags.js",
+		"/home/gildas/Projects/meteor/djhi-meteor-widgets/lib/mobile.html",
+		"/home/gildas/Projects/meteor/djhi-meteor-widgets/djhi-meteor-widgets.sublime-project",
+		"/home/gildas/Projects/egaragiste/egaragiste/smart.json",
+		"/home/gildas/Projects/egaragiste/egaragiste-crm/vehicles/hooks.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-crm/salesDocuments/schemas/salesDocumentItem.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-crm/customers/views/selector.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-crm/dashboard/panel.html",
+		"/home/gildas/Projects/egaragiste/egaragiste-crm/dashboard/panel.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-crm/salesDocuments/views/customerAndVehicle.html",
+		"/home/gildas/Projects/egaragiste/egaragiste-crm/salesDocuments/views/edit.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-crm/salesDocuments/views/edit.html",
+		"/home/gildas/Projects/egaragiste/egaragiste-common/garages/views/edit.html",
+		"/home/gildas/Projects/egaragiste/egaragiste/packages/djhi-meteor-authentication/server.js",
+		"/home/gildas/Projects/egaragiste/egaragiste/packages/egaragiste-crm/salesDocuments/views/item.html",
+		"/home/gildas/Projects/egaragiste/egaragiste-crm/salesDocuments/views/item.html",
+		"/home/gildas/Projects/egaragiste/egaragiste/deploy.sh",
+		"/home/gildas/Projects/egaragiste/egaragiste/.demeteorized/programs/server/packages/egaragiste-crm.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-crm/dashboard/publications.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-appbase/css/main.css",
+		"/home/gildas/Projects/egaragiste/egaragiste-crm/smart.json",
+		"/home/gildas/Projects/egaragiste/egaragiste-crm/vehicles/views/quickEdit.html",
+		"/home/gildas/Projects/egaragiste/egaragiste-crm/package.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-crm/customers/views/quickEdit.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-crm/vehicles/views/quickEdit.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-crm/salesDocuments/methods.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-crm/customers/hooks.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-crm/salesDocuments/views/customerAndVehicle.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-crm/salesDocuments/controllers.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-crm/salesDocuments/collections.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-crm/customers/views/quickEdit.html",
+		"/home/gildas/Projects/egaragiste/egaragiste-crm/vehicles/schemas/vehicleReference.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-crm/vehicles/schemas/vehicle.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-crm/vehicles/views/edit.html",
+		"/home/gildas/Projects/egaragiste/egaragiste-crm/vehicles/publications.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-crm/customers/publications.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-crm/salesDocuments/views/printable.html",
+		"/home/gildas/Projects/egaragiste/egaragiste-crm/salesDocuments/views/salesDocumentsPrices.html",
+		"/home/gildas/Projects/egaragiste/egaragiste/start.sh",
+		"/home/gildas/Projects/egaragiste/egaragiste-crm/salesDocuments/views/new.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-crm/salesDocuments/views/new.html",
+		"/home/gildas/Projects/egaragiste/egaragiste-crm/salesDocuments/routes.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-appbase/views/layout.html",
+		"/home/gildas/Projects/egaragiste/egaragiste-common/views/fieldset.html",
+		"/home/gildas/Projects/egaragiste/egaragiste/packages/jquery-masonry/package.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-catalog/smart.json",
+		"/home/gildas/Projects/egaragiste/egaragiste-common/smart.json",
+		"/home/gildas/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/home/gildas/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/home/gildas/Projects/egaragiste/egaragiste.sublime-project",
+		"/home/gildas/Projects/mescours/mescours.sublime-project",
+		"/home/gildas/Projects/egaragiste/egaragiste-appbase/lib/routes.js",
+		"/home/gildas/Téléchargements/Bootswatch  Amelia.html",
+		"/home/gildas/Bureau/caf - 2014-07.txt",
+		"/home/gildas/Projects/egaragiste/egaragiste-crm/vehicles/views/selector.html",
+		"/home/gildas/Projects/egaragiste/egaragiste-crm/customers/views/selector.html",
+		"/home/gildas/Projects/egaragiste/egaragiste-crm/vehicles/views/selector.js",
+		"/home/gildas/Projects/egaragiste/egaragiste/packages/meteor-formatting/numbers.js",
+		"/home/gildas/Projects/egaragiste/egaragiste/packages/meteor-formatting/helpers.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-admin/lib/atemo/baseArticles.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-crm/salesDocuments/views/salesDocumentsItems.js",
+		"/home/gildas/Projects/egaragiste/egaragiste/config/settings.json",
+		"/home/gildas/Projects/egaragiste/egaragiste/config/settings_local.json",
+		"/home/gildas/Projects/egaragiste/egaragiste-crm/salesDocuments/views/salesDocumentsItems.html",
+		"/home/gildas/Projects/egaragiste/egaragiste-crm/salesDocuments/views/salesDocumentsPrices.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-catalog/articles/methods.js",
+		"/home/gildas/Projects/egaragiste/egaragiste/packages/simple-schema/simple-schema-context.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-admin/views/admin_delko.html",
+		"/home/gildas/Projects/egaragiste/egaragiste/client/main.html",
+		"/home/gildas/Projects/egaragiste/egaragiste-admin/lib/delko/salesDocuments.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-admin/lib/delko/subcategories.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-admin/lib/delko/categories.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-admin/lib/delko/baseArticles.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-admin/lib/delko/methods.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-admin/views/admin_atemo.html",
+		"/home/gildas/Projects/egaragiste/egaragiste-admin/file/importationFile.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-admin/file/importationFileUploader.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-admin/lib/base.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-admin/views/fileUpload.html",
+		"/home/gildas/Projects/egaragiste/egaragiste-admin/lib/atemo/methods.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-admin/package.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-admin/file/importationFileUploader.html",
+		"/home/gildas/Projects/egaragiste/egaragiste/packages/meteor-file/meteor-file.js",
+		"/home/gildas/Téléchargements/Skype/atemo/ARTICLE - Autres Groupes - Partie 3.csv",
+		"/home/gildas/Téléchargements/Skype/atemo/ARTICLE - Autres Groupes - Partie 2.csv",
+		"/home/gildas/Téléchargements/Skype/atemo/ARTICLE - Autres Groupes - Partie 1.csv",
+		"/home/gildas/Téléchargements/Skype/atemo/ARTICLE - Groupe PNEU.csv",
+		"/home/gildas/Projects/egaragiste/egaragiste-catalog/articles/collections.js",
+		"/home/gildas/Téléchargements/Skype/atemo/ARTICLE - Groupe MO.csv",
+		"/home/gildas/Projects/egaragiste/egaragiste/packages/meteor-formatting/dates.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-admin/lib/delko/methods/baseArticles.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-admin/lib/delko/methods/base.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-admin/.build/os.json",
+		"/home/gildas/Projects/egaragiste/egaragiste-admin/.build/os/packages/egaragiste-admin.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-admin/.build/os/packages/egaragiste-admin.js.map",
+		"/home/gildas/Projects/egaragiste/egaragiste-admin/lib/delko/methods/categories.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-admin/lib/delko/methods/salesDocuments.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-admin/lib/delko/methods/subcategories.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-appbase/package.js",
+		"/home/gildas/Téléchargements/Skype/atemo/ARTICLE - 0 - 65000.csv",
+		"/home/gildas/Projects/egaragiste/egaragiste/update.sh",
+		"/home/gildas/Projects/egaragiste/egaragiste-admin/lib/indexes.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-common/package.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-common/newuser/routes.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-common/lib/security_rules.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-admin/lib/routes.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-common/garages/views/new.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-admin/views/garageSelection.html",
+		"/home/gildas/Projects/egaragiste/egaragiste-common/garages/publications.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-common/garages/routes.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-admin/lib/methods/baseArticles.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-catalog/articles/schemas/articleForGarage.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-common/garages/server_static.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-common/garages/client_static.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-catalog/package.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-common/newuser/newuser.html",
+		"/home/gildas/Projects/egaragiste/egaragiste-common/garages/collections.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-common/lib/schemas_users.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-appbase/smart.json",
+		"/home/gildas/Projects/egaragiste/egaragiste/.meteor/packages",
+		"/home/gildas/Projects/egaragiste/egaragiste-admin/smart.json",
+		"/home/gildas/Projects/egaragiste/egaragiste/packages/djhi-meteor-authentication/config.js",
+		"/home/gildas/Projects/egaragiste/egaragiste/packages/egaragiste-appbase/package.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-authentication/server.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-authentication/config.js",
+		"/home/gildas/Projects/egaragiste/egaragiste/packages/accounts-templates-core/lib/accounts-templates-core.js",
+		"/home/gildas/Projects/egaragiste/egaragiste-common/garages/views/new.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"/home/gildas/Projects/egaragiste/egaragiste, /home/gildas/Projects/egaragiste/egaragiste-admin, /home/gildas/Projects/egaragiste/egaragiste-crm, /home/gildas/Projects/egaragiste/egaragiste-common, /home/gildas/Projects/egaragiste/egaragiste-catalog, /home/gildas/Projects/egaragiste/egaragiste-appbase,-.demeteorized/, -.meteor/, -.build/, -.npm/, -packages/",
+			"/home/gildas/Projects/egaragiste/egaragiste-admin",
+			"/home/gildas/Projects/egaragiste/egaragiste, /home/gildas/Projects/egaragiste/egaragiste-admin, /home/gildas/Projects/egaragiste/egaragiste-crm, /home/gildas/Projects/egaragiste/egaragiste-common, /home/gildas/Projects/egaragiste/egaragiste-catalog, /home/gildas/Projects/egaragiste/egaragiste-appbase,-.demeteorized/, -.meteor/, -.build/, -.npm/, -packages/",
+			"/home/gildas/Projects/egaragiste/egaragiste, /home/gildas/Projects/egaragiste/egaragiste-newuser, /home/gildas/Projects/egaragiste/egaragiste-delko, /home/gildas/Projects/egaragiste/egaragiste-crm, /home/gildas/Projects/egaragiste/egaragiste-common, /home/gildas/Projects/egaragiste/egaragiste-catalog, /home/gildas/Projects/egaragiste/egaragiste-authentication, /home/gildas/Projects/egaragiste/egaragiste-appbase,-.demeteorized/, -.meteor/, -.build/, -.npm/, -packages/",
+			"/home/gildas/Projects/egaragiste/egaragiste, /home/gildas/Projects/egaragiste/egaragiste-notifications, /home/gildas/Projects/egaragiste/egaragiste-newuser, /home/gildas/Projects/egaragiste/egaragiste-gitfeedbacks, /home/gildas/Projects/egaragiste/egaragiste-delko, /home/gildas/Projects/egaragiste/egaragiste-crm, /home/gildas/Projects/egaragiste/egaragiste-common, /home/gildas/Projects/egaragiste/egaragiste-catalog, /home/gildas/Projects/egaragiste/egaragiste-authentication, /home/gildas/Projects/egaragiste/egaragiste-appbase,-.demeteorized/, -.meteor/, -.build/, -.npm/, -packages/",
+			"<open folders>",
+			"/home/gildas/Projects/egaragiste/egaragiste,-.demeteorized/, -.meteor/, -.build/, -.npm/, -packages/",
+			"/home/gildas/Projects/egaragiste/egaragiste,-.demeteorized/, -.meteor/, -.build/, -.npm/",
+			"/home/gildas/Projects/egaragiste/egaragiste,-.demeteorized/, -.meteor/, -.build/",
+			"/home/gildas/Projects/egaragiste/egaragiste,-.demeteorized/, -.meteor/",
+			"/home/gildas/Projects/egaragiste/egaragiste,-.demeteorized/, -.meteor",
+			"/home/gildas/Projects/egaragiste/egaragiste,-.demeteorized/",
+			"/home/gildas/Projects/egaragiste/egaragiste",
+			"/home/gildas/Projects/egaragiste/egaragiste,/home/gildas/Projects/egaragiste/egaragiste-appbase,/home/gildas/Projects/egaragiste/egaragiste-authentication,/home/gildas/Projects/egaragiste/egaragiste-catalog,/home/gildas/Projects/egaragiste/egaragiste-common,/home/gildas/Projects/egaragiste/egaragiste-crm,/home/gildas/Projects/egaragiste/egaragiste-delko,/home/gildas/Projects/egaragiste/egaragiste-gitfeedbacks,/home/gildas/Projects/egaragiste/egaragiste-newuser,/home/gildas/Projects/egaragiste/egaragiste-notifications,/home/gildas/Projects/egaragiste/egaragiste-public",
+			"/home/gildas/Projects/egaragiste",
+			"/home/gildas/Projects/egaragiste/, -**/.build, -**/.meteor -**/.demeteorized",
+			"/home/gildas/Projects/egaragiste/, -/.build, -/.meteor -/.demeteorized",
+			"/home/gildas/Projects/egaragiste/, -.build, -.meteor -.demeteorized",
+			"/home/gildas/Projects/egaragiste/, -.build/**/*, -.meteor/**/* -.demeteorized/**/*",
+			"/home/gildas/Projects/egaragiste/, -**/build/**/*, -**/.meteor/**/* -**/.demeteorized/**/*",
+			"/home/gildas/Projects/egaragiste/, -*build/*, -.meteor/* -*demeteorized/*",
+			"/home/gildas/Projects/egaragiste/, -*build/*, -.meteor/* -.demeteorized/*",
+			"/home/gildas/Projects/egaragiste/, -*build/*, -.meteor/* -.demetorized/*",
+			"/home/gildas/Projects/egaragiste/, -*build/*, -.meteor/*",
+			"/home/gildas/Projects/egaragiste/, -*build/* ",
+			"/home/gildas/Projects/egaragiste/-*build/* ",
+			"/home/gildas/Projects/egaragiste/-*build/* -.meteor/*",
+			"/home/gildas/Projects/egaragiste/egaragiste-catalog,-*build/*",
+			"/home/gildas/Projects/egaragiste/egaragiste-catalog",
+			"/home/gildas/Projects/egaragiste/egaragiste-crm",
+			"/home/gildas/Projects/egaragiste/egaragiste-common",
+			"/home/gildas/Projects/egaragiste/, -*build/*, -*/.meteor/*",
+			"/home/gildas/Projects/egaragiste/, -*build/*",
+			"/home/gildas/Projects/egaragiste/packages, -*build/*",
+			"/home/gildas/Projects/egaragiste/packages, -*build/*, -*/numeral/*",
+			"/home/gildas/Projects/egaragiste, -.meteor/*,-*build/*, -*/numeral/*",
+			"/home/gildas/Projects/egaragiste, /packages/egaragiste*,-.meteor/*,-*build/*, -*/numeral/*",
+			"/home/gildas/Projects/egaragiste, /packages/egaragiste*/*,-.meteor/*,-*build/*, -*/numeral/*",
+			"/home/gildas/Projects/egaragiste, /packages/*egaragiste*/*,-.meteor/*,-*build/*, -*/numeral/*",
+			"/home/gildas/Projects/egaragiste, /packages/*egaragiste*/*,-.meteor/*,-*build/*",
+			"/home/gildas/Projects/egaragiste, /packages/*egaragiste*/*,-.meteor/*",
+			"/home/gildas/Projects/egaragiste, /packages/*egaragiste*/*",
+			"/home/gildas/Projects/egaragiste,*egaragiste*/*",
+			"/home/gildas/Projects/egaragiste",
+			"/home/gildas/Projects/egaragiste/,-build/*",
+			"/home/gildas/Projects/egaragiste/,-.build/*",
+			"/home/gildas/Projects/egaragiste/",
+			"/home/gildas/Projects/egaragiste/packages/egaragiste-common",
+			"/home/gildas/Projects/egaragiste/packages/egaragiste-feedbacks",
+			"/home/gildas/Projects/egaragiste/packages/egaragiste-sales-documents",
+			"/home/gildas/Projects/egaragiste/packages/egaragiste-customers",
+			"/home/gildas/Projects/egaragiste/packages/egaragiste-common",
+			"/home/gildas/Projects/egaragiste/packages/egaragiste-catalog",
+			"/home/gildas/Projects/egaragiste/collections",
+			"/home/gildas/Projects/egaragiste/egaragiste/packages/egaragiste_catalog/collections",
+			"/home/gildas/Projects/egaragiste/egaragiste/client",
+			"/home/gildas/Projects/egaragiste/client",
+			"/home/gildas/Projects/egaragiste/packages",
+			"/home/gildas/Projects/egaragiste/",
+			"/home/gildas/Projects/egaragiste/,-$\\..*",
+			"/home/gildas/Projects/egaragiste/",
+			"/home/gildas/Projects/egaragiste/packages/autoform",
+			"/home/gildas/Projects/egaragiste",
+			"/home/gildas/Projects/scop-manager/client/stylesheets/",
+			"/home/gildas/Projects/scop-manager/client/stylesheets/bootstrap_theme.css",
+			"/home/gildas/Projects/scop-manager/client",
+			"/home/gildas/Projects/scop-manager",
+			"/home/gildas/Projects/microscope",
+			"/home/gildas/Projects/my-nutrition-planning-domain/",
+			"/home/gildas/Projects/my-nutrition-planning/app",
+			"/home/gildas/Projects/my-nutrition-planning/app/scripts",
+			"/home/gildas/Projects/my-nutrition-planning/app/states",
+			"/home/gildas/Projects/my-nutrition-planning/app/components",
+			"/home/gildas/Projects/my-nutrition-planning/",
+			"/home/gildas/Projects/my-nutrition-planning/app",
+			"/home/gildas/Projects/my-nutrition-planning/app,*.scss",
+			"/home/gildas/Projects/my-nutrition-planning/app",
+			"/home/gildas/Projects/my-nutrition-planning/app/bower_components/sass-bootstrap",
+			"/home/gildas/Projects/my-nutrition-planning/app",
+			"/home/gildas/Projects/sailsgm/api, /home/gildas/Projects/sailsgm/config",
+			"/home/gildas/Projects/sailsgm/assets/api, /home/gildas/Projects/sailsgm/assets/config",
+			"/home/gildas/Projects/sailsgm/assets/app",
+			"/home/gildas/Projects/sailsgm/node_modules/sails/lib",
+			"/home/gildas/Projects/sailsgm/node_modules/sails",
+			"/home/gildas/Projects/sailsgm",
+			"/home/gildas/Projects/sailsgm/api, /home/gildas/Projects/sailsgm/config",
+			"/home/gildas/Projects/sailsgm/assets/app/crm",
+			"/home/gildas/Projects/sailsgm/tasks",
+			"/home/gildas/Projects/sailsgm/api/tasks",
+			"/home/gildas/Projects/sailsgm/api",
+			"/home/gildas/Projects/sailsgm/node_modules/mongoose/node_modules/mongodb/lib/mongodb",
+			"/home/gildas/Projects/sailsgm/api",
+			"/home/gildas/Projects/sailsgm/assets/app",
+			"/home/gildas/Projects/sailsgm/api",
+			"/home/gildas/Projects/sailsgm/.git",
+			"/home/gildas/Projects/sailsgm/",
+			"/home/gildas/Projects/sailsgm/api",
+			"/home/gildas/Projects/sailsgm/config",
+			"/home/gildas/Projects/sailsgm/api",
+			"/home/gildas/Projects/sailsgm/api, /home/gildas/Projects/sailsgm/config",
+			"/home/gildas/Projects/sailsgm/api",
+			"/home/gildas/Projects/sailsgm/node_modules/sails/lib",
+			"/home/gildas/Projects/sailsgm/assets",
+			"/home/gildas/Projects/sailsgm/api",
+			"/home/gildas/Projects/sailsgm/assets/app",
+			"/home/gildas/Projects/sailsgm/api",
+			"/home/gildas/Projects/sailsgm/assets",
+			"/home/gildas/Projects/sailsgm/api",
+			"/home/gildas/Projects/sailsgm/assets/",
+			"/home/gildas/Projects/sailsgm/assets/app",
+			"/home/gildas/Projects/sailsgm/views/application",
+			"/home/gildas/Projects/sailsgm/assets/app",
+			"/home/gildas/Projects/sailsgm/assets",
+			"/home/gildas/Projects/sailsgm",
+			"/home/gildas/Projects/planning-sante",
+			"/home/gildas/Projects/sailsgm/data-samples/Export Factures ATEMO",
+			"/home/gildas/Projects/sailsgm/node_modules/sails/lib",
+			"/home/gildas/Projects/sailsgm/assets",
+			"/home/gildas/Projects/sailsgm/",
+			"/home/gildas/Projects/sailsgm/api",
+			"/home/gildas/Projects/sailsgm/assets,*.html",
+			"/home/gildas/Projects/sailsgm/assets",
+			"/home/gildas/Projects/sailsgm/config",
+			"/home/gildas/Projects/sailsgm/api",
+			"/home/gildas/Projects/sailsgm/assets",
+			"/home/gildas/Projects/sailsgm/api",
+			"/home/gildas/Projects/sailsgm/assets",
+			"/home/gildas/Projects/sailsgm"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"tags",
+			"radiosButtons",
+			"phone",
+			"email",
+			"date",
+			"checkboxButton",
+			"console.log",
+			"currency",
+			"masonry-item",
+			"tab",
+			"currentGarage.get()",
+			"this.autoform",
+			"..",
+			"}}",
+			"..",
+			"name='",
+			" class=\"pull-left\"",
+			"customer",
+			"brand",
+			"_af.doc",
+			"this",
+			"name",
+			"\"\"",
+			"return",
+			"template",
+			"customer",
+			"salesDocument.customer",
+			"well",
+			"masonry-item",
+			"col-",
+			"Outlayer",
+			"meteor-jquery-masonry",
+			"jQuery",
+			"this",
+			"masonry",
+			"customer",
+			"address.city",
+			"customerSelector",
+			"isNumber || false",
+			"isNumber",
+			"keywords.hash.symbolAtEnd",
+			"keywords.hash) ? isNumber",
+			"keywords.hash.isNumber",
+			"value !== undefined",
+			"totalVAT",
+			"hash",
+			"number",
+			"numeral(",
+			"totalPriceIT",
+			"totalPriceET",
+			"totalpriceET",
+			"priceET",
+			").format('0,0.00'",
+			"currencyNoSymbol",
+			"_meteorImportationFileUploader",
+			"FileUploader",
+			"csvs[file.name]",
+			"imported",
+			"file",
+			"FileUploader",
+			"meteor-file-uploader",
+			"this",
+			"meteor",
+			"MeteorFile",
+			"category",
+			"methods",
+			"delko",
+			"upload",
+			"Delko",
+			"uploadDelkoFile",
+			"upload",
+			"importedDocs",
+			"importedVehicles",
+			"fffffff",
+			"importedCustomers",
+			"isFromTrustedCode",
+			"datepicker",
+			"name",
+			"subscribe('garages')",
+			"garages",
+			"defaultValue",
+			"_path",
+			"T9n",
+			"egaragiste-newuser",
+			"'lib",
+			"'views",
+			"_afRadio_radioButtons",
+			"item",
+			"totalPriceET",
+			"this",
+			"=",
+			"discount",
+			"this.field('discount').value",
+			"discount",
+			"_ensureIndex",
+			"egaragiste-gitfeedbacks",
+			"views",
+			"radioButtons",
+			"radio",
+			"repository",
+			"GitFeedback",
+			"egaragiste-notifications",
+			"Enregistrement d'un nouveau",
+			"number",
+			"hours",
+			"size",
+			"uiFiles",
+			"debounce",
+			"documents",
+			"items",
+			"item",
+			"this",
+			".",
+			"this",
+			");\n",
+			"if",
+			"afInput_salesDocumentsItems",
+			"template.data.name",
+			"unless",
+			"form-inline",
+			"div",
+			"sales-documents-remove-item",
+			"glyphicon",
+			"€",
+			"index",
+			"id",
+			"='",
+			"val"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ImportationFile",
+			"uploadFile",
+			"uploadDelko",
+			"lodash",
+			"SalesDocumentsSchema",
+			"°",
+			"E",
+			"invoice",
+			"salesDocument",
+			"Vehicle",
+			"vehicle",
+			"supplierDiscount",
+			"supplierPrice",
+			"sanitize(\\1)",
+			"\"\\1\";\"\\2\"",
+			"\"\\1\";\"\\2\";\"\\3\";\"\\4\"",
+			"NotificationsHelper",
+			"GitFeedbackSchema",
+			"Security.isLoggedIn",
+			"    {{#pageTitle}}\n    <span>Enregistrement d'un nouveau devis</span>\n    <div class=\"btn-group pull-right\">\n        <button type=\"submit\" class=\"btn btn-primary\">Enregistrer</button>\n        <a class=\"btn btn-default\" href=\"{{pathFor 'estimatesList'}}\">Retour</a>\n    </div>  \n    {{/pageTitle}}\n",
+			"Invoices",
+			"Orders",
+			"invoice",
+			"order",
+			"GaragesSchema",
+			"VatsSchema",
+			"UsersSchema",
+			"UserProfilesSchema",
+			"SuppliersSchema",
+			"SubcategoriesSchema",
+			"CategoriesSchema",
+			"ArticlesSchema",
+			"OrdersSchema",
+			"InvoicesSchema",
+			"EstimatesSchema",
+			"InvoiceSchema",
+			"Estimate",
+			"estimate",
+			"estimates",
+			"'",
+			"f77f00",
+			"/fonts",
+			"\"",
+			"createdAt",
+			"Tasks",
+			"tasks",
+			"Tasks",
+			"",
+			"'",
+			"quantity: \\1,",
+			"quantity: \\1",
+			"quantity: /1",
+			"><i class=\"fa fa-print\"></i><span translate=\"\\1\"></span>",
+			"computeCarbohydrates",
+			"@",
+			"adjust-hue",
+			"@mixin \\1\\(\\2\\)\\n{",
+			"$",
+			"{{ 'S",
+			"",
+			"\"",
+			"\">",
+			" translate=\"",
+			"\">",
+			"translate=\"",
+			"allowancesCalculator",
+			"computeAllowances",
+			"1.3.0",
+			"~1.2.17",
+			"1.2.17",
+			"",
+			"strong",
+			"notifyUserAboutJobsForGarageGroup",
+			"notifyUserAboutJobsForGarage",
+			"JobsService",
+			"startSupplierImport",
+			"_startTask",
+			"startBillingLinesImport",
+			"startBillingImport",
+			"startArticlesImport",
+			"JobsService",
+			"",
+			"<form autocomplete=\"off\"",
+			"total:",
+			"id",
+			"io.sockets.",
+			"io.sockets;",
+			"io",
+			"Notifier",
+			"TaskHandler",
+			"* \\1",
+			"* ",
+			"ng-show=\"!formCreate.$pristine && formCreate",
+			"ng-show=\"!formCreate.$pristine && ",
+			"document",
+			"document.items",
+			"items",
+			"job.data.totalImported",
+			"job.data.totalToImport",
+			"job.data",
+			"job.data.fileImportId",
+			"queue",
+			"jobCallback",
+			"job",
+			"onItemParsingError",
+			"onItemParsed",
+			"raiseItemParsingError",
+			"raiseItemParsed",
+			"self._parser",
+			"self._importer",
+			"AtemoArticlesParser",
+			"onItemParsed",
+			"onItemParsingError",
+			"_onItemParsingError",
+			"_onItemParsed",
+			"raiseItemParsingError",
+			"raiseItemParsed",
+			"AtemoArticleParser",
+			"fileImport",
+			"###",
+			"##",
+			"fileImport",
+			"AtemoDocumentLinesParser",
+			"SalesDocumentLinesImporter",
+			"articleData",
+			"SalesDocumentLinesImporter",
+			"SuppliedArticleNegotiation",
+			"SuppliedArticle"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1217,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1076,
+								1076
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "lib/date.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 285,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "lib/time.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 309,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "smart.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 444,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								432,
+								432
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 233.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-commit":
+	{
+		"height": 148.0
+	},
+	"output.git-flow-feature-finish":
+	{
+		"height": 148.0
+	},
+	"output.git-flow-feature-start":
+	{
+		"height": 91.0
+	},
+	"output.git-pull":
+	{
+		"height": 148.0
+	},
+	"project": "djhi-meteor-widgets.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 351.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

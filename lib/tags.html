@@ -1,0 +1,12 @@
+<template name="afArrayField_tags">
+	<div class="form-group {{#if afFieldIsInvalid name=this.atts.name autoform=this.atts.autoform}}has-error{{/if}}">
+    {{#unless this.skipLabel}}
+    {{> afFieldLabel name=this.atts.name}}
+    {{/unless}}
+    {{> afFieldInput name=this.atts.name autoform=this.atts.autoform type="text"}}
+    {{#if afFieldIsInvalid name=this.atts.name}}
+    <span class="help-block">{{afFieldMessage name=this.atts.name}}</span>
+    {{/if}}
+    <span class="help-block text-muted">Valider chaque mot-clé avec la touche <strong>Entrée</strong>.</span>
+	</div>
+</template>

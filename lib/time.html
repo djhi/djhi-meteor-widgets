@@ -1,0 +1,14 @@
+<template name="afQuickField_time">
+  <div class="form-group {{#if afFieldIsInvalid name=this.atts.name autoform=this.atts.autoform}}has-error{{/if}}">
+    {{#unless this.skipLabel}}
+    {{> afFieldLabel this.afFieldLabelAtts}}
+    {{/unless}}
+    <div class="input-group">
+    <span class="input-group-addon"><i class="fa fa-clock-o"></i></span>
+    {{#with cleanedFieldInputAtts}}
+    {{> afFieldInput this}}
+    {{/with}}
+    </div>
+    <span class="help-block">{{{afFieldMessage name=this.atts.name autoform=this.atts.autoform}}}</span>
+  </div>
+</template>

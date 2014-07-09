@@ -1,0 +1,33 @@
+{
+	"folders":
+	[
+		{
+			"folder_exclude_patterns":
+			[
+				".build",
+				".demeteorized"
+			],
+			"follow_symlinks": true,
+			"path": "."
+		}
+	],
+	"settings":
+	{
+		"tab_size": 2
+	},
+	"ternjs":
+	{
+		"libs":
+		[
+			"browser",
+			"underscore",
+			"jquery"
+		],
+		"plugins":
+		{
+			"meteor":
+			{
+			}
+		}
+	}
+}

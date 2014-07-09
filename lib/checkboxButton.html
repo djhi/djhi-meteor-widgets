@@ -1,0 +1,11 @@
+<template name="afCheckbox_checkboxButton">
+	{{>afFieldLabel name=this.name}}
+  <div class="btn-group-form-control btn-group" data-toggle="buttons">
+    <label class="btn btn-primary">
+      <input type="checkbox" value="{{this.value}}" {{atts}} />
+      
+      <i class="fa fa-ban {{#unless checkboxSelected}}hidden{{/unless}}"></i>
+      <i class="fa fa-check {{#if checkboxSelected}}hidden{{/if}}"></i>
+    </label>
+  </div>
+</template>
