@@ -1,10 +1,10 @@
 {
-  "name": "djhi-autoform-widgets",
+  "name": "djhi-meteor-widgets",
   "description": "Widgets for autoform and bootstrap 3. Not meant to be used by anyone but me :)",
   "homepage": "",
   "author": "Gildas Garcia <gildas.garcia@gmail.com>",
   "version": "0.0.1",
-  "git": "https://github.com/djhi/djhi-autoform-widgets.git",
+  "git": "https://github.com/djhi/djhi-meteor-widgets.git",
   "packages": {
     "autoform": {
       "git": "https://github.com/djhi/meteor-autoform.git"
