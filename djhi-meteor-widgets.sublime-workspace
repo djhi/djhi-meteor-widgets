@@ -523,7 +523,7 @@
 			"file": "package.js",
 			"settings":
 			{
-				"buffer_size": 1217,
+				"buffer_size": 1235,
 				"line_ending": "Windows"
 			}
 		},
@@ -544,13 +544,10 @@
 			}
 		},
 		{
-			"contents": "{\n  \"name\": \"djhi-autoform-widgets\",\n  \"description\": \"Widgets for autoform and bootstrap 3. Not meant to be used by anyone but me :)\",\n  \"homepage\": \"\",\n  \"author\": \"Gildas Garcia <gildas.garcia@gmail.com>\",\n  \"version\": \"0.0.1\",\n  \"git\": \"https://github.com/djhi/djhi-autoform-widgets.git\",\n  \"packages\": {\n    \"autoform\": {\n      \"git\": \"https://github.com/djhi/meteor-autoform.git\"\n    },\n    \"bootstrap-3\": {},\n    \"clockpicker\": {},\n  }\n}",
 			"file": "smart.json",
-			"file_size": 434,
-			"file_write_time": 130493669345499397,
 			"settings":
 			{
-				"buffer_size": 444,
+				"buffer_size": 773,
 				"line_ending": "Windows"
 			}
 		}
@@ -1034,6 +1031,7 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"autoform",
 			"tags",
 			"radiosButtons",
 			"phone",
@@ -1160,8 +1158,7 @@
 			"€",
 			"index",
 			"id",
-			"='",
-			"val"
+			"='"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1307,7 +1304,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -1316,15 +1313,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1217,
+						"buffer_size": 1235,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1076,
-								1076
+								565,
+								565
 							]
 						],
 						"settings":
@@ -1335,7 +1332,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -1400,15 +1397,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 444,
+						"buffer_size": 773,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								432,
-								432
+								773,
+								773
 							]
 						],
 						"settings":
@@ -1417,11 +1414,11 @@
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
-						"translation.x": 0.0,
+						"translation.x": -0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
