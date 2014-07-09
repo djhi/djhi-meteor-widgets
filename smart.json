@@ -13,13 +13,9 @@
     "clockpicker": {},
     "select2": {
       "git": "https://github.com/djhi/meteor-select2.git"
-    },
-    "bower": {
-      "git": "https://github.com/mquandalle/meteor-bower.git",
-      "branch": "master"
+    }, 
+    "moment-datepicker": {
+      "git": "https://github.com/djhi/meteor-moment-datepicker.git"
     }
-  },
-  "bower": {
-    "MomentDatepicker": "1.1.3"
   }
 }
