@@ -14,7 +14,7 @@
     "bower": {
       "git": "https://github.com/mquandalle/meteor-bower.git",
       "branch": "master"
-    },
+    }
   },
   "bower": {
     "moment-datepicker": "1.1.3",
