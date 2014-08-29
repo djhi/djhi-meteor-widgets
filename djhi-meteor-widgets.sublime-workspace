@@ -519,22 +519,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "smart.json",
-			"settings":
-			{
-				"buffer_size": 773,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/home/gildas/.meteorite/packages/djhi-meteor-widgets/djhi/djhi-meteor-widgets/0a1f6d295aeb56c07d3856330d330204a1e75a53/smart.json",
-			"settings":
-			{
-				"buffer_size": 773,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -742,12 +726,17 @@
 	},
 	"file_history":
 	[
-		"/home/gildas/Projects/meteor/djhi-meteor-widgets/lib/time.js",
+		"/home/gildas/Projects/meteor/djhi-meteor-widgets/smart.json",
+		"/home/gildas/Projects/meteor/djhi-meteor-widgets/lib/pageTitle.html",
 		"/home/gildas/Projects/meteor/djhi-meteor-widgets/lib/date.js",
-		"/home/gildas/Projects/meteor/djhi-meteor-widgets/package.js",
-		"/home/gildas/Projects/meteor/djhi-meteor-widgets/lib/mobile.js",
+		"/home/gildas/Projects/meteor/djhi-meteor-widgets/lib/date.html",
 		"/home/gildas/Projects/meteor/djhi-meteor-widgets/lib/tags.js",
+		"/home/gildas/Projects/meteor/djhi-meteor-widgets/package.js",
 		"/home/gildas/Projects/meteor/djhi-meteor-widgets/lib/mobile.html",
+		"/home/gildas/Projects/meteor/djhi-meteor-widgets/lib/checkboxButton.js",
+		"/home/gildas/.meteorite/packages/djhi-meteor-widgets/djhi/djhi-meteor-widgets/0a1f6d295aeb56c07d3856330d330204a1e75a53/smart.json",
+		"/home/gildas/Projects/meteor/djhi-meteor-widgets/lib/time.js",
+		"/home/gildas/Projects/meteor/djhi-meteor-widgets/lib/mobile.js",
 		"/home/gildas/Projects/meteor/djhi-meteor-widgets/djhi-meteor-widgets.sublime-project",
 		"/home/gildas/Projects/egaragiste/egaragiste/smart.json",
 		"/home/gildas/Projects/egaragiste/egaragiste-crm/vehicles/hooks.js",
@@ -864,12 +853,7 @@
 		"/home/gildas/Projects/egaragiste/egaragiste-common/newuser/newuser.html",
 		"/home/gildas/Projects/egaragiste/egaragiste-common/garages/collections.js",
 		"/home/gildas/Projects/egaragiste/egaragiste-common/lib/schemas_users.js",
-		"/home/gildas/Projects/egaragiste/egaragiste-appbase/smart.json",
-		"/home/gildas/Projects/egaragiste/egaragiste/.meteor/packages",
-		"/home/gildas/Projects/egaragiste/egaragiste-admin/smart.json",
-		"/home/gildas/Projects/egaragiste/egaragiste/packages/djhi-meteor-authentication/config.js",
-		"/home/gildas/Projects/egaragiste/egaragiste/packages/egaragiste-appbase/package.js",
-		"/home/gildas/Projects/egaragiste/egaragiste-authentication/server.js"
+		"/home/gildas/Projects/egaragiste/egaragiste-appbase/smart.json"
 	],
 	"find":
 	{
@@ -1015,6 +999,7 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"meteor",
 			"'lib",
 			"autoform",
 			"tags",
@@ -1141,8 +1126,7 @@
 			"sales-documents-remove-item",
 			"glyphicon",
 			"€",
-			"index",
-			"id"
+			"index"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1288,69 +1272,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "smart.json",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 773,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								548,
-								548
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/home/gildas/.meteorite/packages/djhi-meteor-widgets/djhi/djhi-meteor-widgets/0a1f6d295aeb56c07d3856330d330204a1e75a53/smart.json",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 773,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								543,
-								543
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				}
 			]
 		}
 	],
