@@ -6,8 +6,8 @@ Package.on_use(function(api, where) {
   api.use(['templating', 'spacebars', 'mrt:moment', 'mrt:numeral', 'ui'], 'client');
   api.imply(['templating', 'spacebars', 'mrt:moment', 'mrt:numeral', 'ui'], 'client');
 
-  api.use(['clockpicker', 'select2'], ['client']);
-  api.imply(['clockpicker', 'select2'], ['client']);
+  api.use(['andrasph:clockpicker', 'natestrauser:select2'], ['client']);
+  api.imply(['andrasph:clockpicker', 'natestrauser:select2'], ['client']);
 
   api.add_files([
     'lib/checkboxButton.css',
