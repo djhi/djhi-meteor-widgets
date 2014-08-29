@@ -3,8 +3,8 @@ Package.describe({
 });
 
 Package.on_use(function(api, where) {
-  api.use(['templating', 'handlebars', 'moment-with-langs', 'numeral', 'bower', 'ui'], 'client');
-  api.imply(['templating', 'handlebars', 'moment-with-langs', 'numeral', 'bower', 'ui'], 'client');
+  api.use(['templating', 'spacebars', 'mrt:moment', 'mrt:numeral', 'ui'], 'client');
+  api.imply(['templating', 'spacebars', 'mrt:moment', 'mrt:numeral', 'ui'], 'client');
 
   api.use(['clockpicker', 'select2'], ['client']);
   api.imply(['clockpicker', 'select2'], ['client']);
