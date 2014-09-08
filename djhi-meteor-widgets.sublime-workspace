@@ -724,8 +724,14 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/media/stockage/projects/meteor/djhi-meteor-widgets"
+	],
 	"file_history":
 	[
+		"/media/stockage/projects/meteor/djhi-meteor-widgets/smart.json",
+		"/media/stockage/projects/meteor/djhi-meteor-widgets/package.js",
 		"/home/gildas/Projects/meteor/djhi-meteor-widgets/smart.json",
 		"/home/gildas/Projects/meteor/djhi-meteor-widgets/lib/pageTitle.html",
 		"/home/gildas/Projects/meteor/djhi-meteor-widgets/lib/date.js",
@@ -851,9 +857,7 @@
 		"/home/gildas/Projects/egaragiste/egaragiste-common/garages/client_static.js",
 		"/home/gildas/Projects/egaragiste/egaragiste-catalog/package.js",
 		"/home/gildas/Projects/egaragiste/egaragiste-common/newuser/newuser.html",
-		"/home/gildas/Projects/egaragiste/egaragiste-common/garages/collections.js",
-		"/home/gildas/Projects/egaragiste/egaragiste-common/lib/schemas_users.js",
-		"/home/gildas/Projects/egaragiste/egaragiste-appbase/smart.json"
+		"/home/gildas/Projects/egaragiste/egaragiste-common/garages/collections.js"
 	],
 	"find":
 	{
@@ -999,6 +1003,8 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"select2",
+			"clockpicker",
 			"meteor",
 			"'lib",
 			"autoform",
@@ -1124,9 +1130,7 @@
 			"form-inline",
 			"div",
 			"sales-documents-remove-item",
-			"glyphicon",
-			"€",
-			"index"
+			"glyphicon"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1362,6 +1366,7 @@
 		],
 		"width": 0.0
 	},
+	"selected_group": 0,
 	"settings":
 	{
 	},
